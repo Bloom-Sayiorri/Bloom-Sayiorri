@@ -16,9 +16,11 @@ You can click the Preview link to take a look at your changes.
     <li>HTML5</li>
     <li>CSS3</li>
     <li>JavaScript</li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>React</li>
+    <li>Ruby</li>
+    <li>Ruby on Rails</li>
+    <li>Python</li>
+    <li>Flask</li>
   </ul>
 </div>
 
